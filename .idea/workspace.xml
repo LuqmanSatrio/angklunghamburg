@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf71aec6-67dd-4b29-8ed6-a9fea54ed630" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/views/pages/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/pages/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/pages/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="309">
@@ -29,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="826" column="21" selection-start-line="826" selection-start-column="21" selection-end-line="826" selection-end-column="21" />
+            <state relative-caret-position="429">
+              <caret line="1157" column="31" lean-forward="true" selection-start-line="1157" selection-start-column="31" selection-end-line="1157" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -71,8 +71,10 @@
       <find>insta</find>
       <find>fa</find>
       <find>instag</find>
-      <find>css</find>
       <find>url</find>
+      <find>css</find>
+      <find>400px</find>
+      <find>768</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,8 +83,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/views/pages/index.ejs" />
+        <option value="$PROJECT_DIR$/public/stylesheets/main.css" />
       </list>
     </option>
   </component>
@@ -173,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590527059781</updated>
-      <workItem from="1590527061407" duration="3390000" />
+      <workItem from="1590527061407" duration="3951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3071000" />
+    <option name="totallyTimeSpent" value="3632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -246,13 +248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="826" column="21" selection-start-line="826" selection-start-column="21" selection-end-line="826" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/fonts.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -260,6 +255,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="1157" column="31" lean-forward="true" selection-start-line="1157" selection-start-column="31" selection-end-line="1157" selection-end-column="31" />
         </state>
       </provider>
     </entry>
